@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MineChess.Enums
 {
-    enum Letter
+    public enum Letter
     {
         A,
         B,

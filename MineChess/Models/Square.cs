@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MineChess.Models
 {
-    class Square
+    public class Square
     {
         public int Value { get; set; } = 0;
         public bool IsBomb { get; set; } = false;

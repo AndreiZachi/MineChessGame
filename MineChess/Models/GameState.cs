@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MineChess.Models
 {
-    class GameState
+    public class GameState
     {
         public bool isWon = false;
         public bool isLost = false;
